@@ -65,6 +65,7 @@ void dequeue(Queue* queue)
     free(iter);
 }
 
+/*
 int main()
 {
     Queue* queue = InitQueue(DEF_TYPESIZE);
@@ -95,3 +96,4 @@ int main()
     } 
       
 }
+*/
